@@ -1,0 +1,4 @@
+Sitemap: https://home.schwarz.wf/sitemapindex.xml
+
+User-Agent: *
+Host: home.schwarz.wf
