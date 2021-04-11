@@ -6,23 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://home.schwarz.wf/fr/galleries/rss.xml</loc>
-  <lastmod>2021-04-05T16:20:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://home.schwarz.wf/fr/rss.xml</loc>
-  <lastmod>2021-04-05T16:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://home.schwarz.wf/galleries/rss.xml</loc>
-  <lastmod>2021-04-05T16:20:00Z</lastmod>
+  <lastmod>2021-04-11T18:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://home.schwarz.wf/rss.xml</loc>
-  <lastmod>2021-04-05T16:20:00Z</lastmod>
+  <lastmod>2021-04-11T18:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://home.schwarz.wf/sitemap.xml</loc>
-  <lastmod>2021-04-05T16:29:00Z</lastmod>
+  <lastmod>2021-04-11T18:25:00Z</lastmod>
  </sitemap>
 </sitemapindex>
